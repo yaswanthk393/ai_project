@@ -1,4 +1,3 @@
-# ai_project
 # Tic Tac Toe Implementation using Multi Agents
 # Introduction
 
